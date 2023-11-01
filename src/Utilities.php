@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Api\System;
+namespace ReworkDigital\Api\System;
 
 class Utilities
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Optimus\Api\System;
+namespace ReworkDigital\Api\System;
 
 use Illuminate\Translation\TranslationServiceProvider as BaseTranslationServiceProvider;
-use Optimus\Api\System\Translation\DistributedFileLoader;
-use Optimus\Api\System\Utilties;
+use ReworkDigital\Api\System\Translation\DistributedFileLoader;
+use ReworkDigital\Api\System\Utilties;
 
 class TranslationServiceProvider extends BaseTranslationServiceProvider
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Api\System;
+namespace ReworkDigital\Api\System;
 
 use Illuminate\Routing\Router;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
