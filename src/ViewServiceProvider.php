@@ -1,10 +1,10 @@
 <?php
 
-namespace Optimus\Api\System;
+namespace ReworkDigital\Api\System;
 
 use Illuminate\Contracts\Events\Dispatcher as DispatcherContract;
 use Illuminate\View\ViewServiceProvider as BaseViewServiceProvider;
-use Optimus\Api\System\Utilities;
+use ReworkDigital\Api\System\Utilities;
 
 class ViewServiceProvider extends BaseViewServiceProvider
 {
